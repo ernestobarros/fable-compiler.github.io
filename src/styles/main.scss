@@ -16,8 +16,6 @@ $navbar-breakpoint: 600px;
 // Needed otherwise iframes show a disabled scrollbar
 html,
 body {
-  overflow-y: auto;
-  overflow-x: hidden;
 }
 
 body {
